@@ -3,11 +3,11 @@
 # --------------------------------------------------------
 # Tensorflow Faster R-CNN
 # Licensed under The MIT License [see LICENSE for details]
-# Written by Xinlei Chen, based on code from Ross Girshick
+# Written by Tian Zhang, based on code from Ross Girshick, Xinlei Chen
 # --------------------------------------------------------
 
 """
-Demo script showing detections in sample images.
+Demo script showing detections in video.
 
 See README.md for installation instructions before running.
 """
