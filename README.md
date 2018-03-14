@@ -48,7 +48,11 @@
   ```
 
 3. Demo for testing on custom video
+  please unzip "sort.zip" in ./tool
+  and then
+  ```Shell
   ./tools/demo_video.py
+  ```
   
 ### Citation
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
